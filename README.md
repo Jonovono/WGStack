@@ -2,4 +2,4 @@
 
 The magic of WG:
 
-![WG](wundergraph.png)
+![WG](./wundergraph.png)
