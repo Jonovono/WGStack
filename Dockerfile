@@ -40,8 +40,6 @@ ENV CI=true \
   WG_SERVER_PORT=9992 \
   WG_PUBLIC_NODE_URL=${wg_public_node_url}
 
-RUN ls
-
 # Generate the WunderGraph client
 # RUN wunderctl generate --wundergraph-dir=.
 RUN npm run api:build
