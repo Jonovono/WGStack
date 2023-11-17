@@ -2,4 +2,4 @@
 
 The magic of WG:
 
-![WG](./wundergraph.png)
+![WG](https://i.imgur.com/FODVLcZ.png)
