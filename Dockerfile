@@ -49,4 +49,4 @@ EXPOSE 9991
 
 # Define the command to run your application
 # CMD wunderctl start --wundergraph-dir=.
-CMD npm run start
+CMD npm run api:start
