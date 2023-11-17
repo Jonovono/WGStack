@@ -1,0 +1,23 @@
+{
+	"name": "helpers",
+	"version": "1.0.0",
+	"main": "./dist/index.js",
+	"module": "./dist/index.mjs",
+	"types": "./dist/index.d.ts",
+	"files": [
+		"dist/**"
+	],
+	"description": "",
+	"scripts": {
+		"build": "tsup",
+		"check": "tsc --noEmit"
+	},
+	"author": "",
+	"devDependencies": {
+		"@types/node": "^17.0.15",
+		"typescript": "^5",
+		"tsconfig": "^7.0.0",
+		"tsup": "^7.2.0",
+		"eslint": "^8.53.0"
+	}
+}
